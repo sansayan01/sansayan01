@@ -1,45 +1,43 @@
-### Hey, I'm Sayan Mondal 👋
+## Hey, I'm Sayan Mondal 👋
 
-**Full-Stack Developer** | **Flutter** | **Supabase** | **Firebase** | **SaaS Builder**
-
-I build production-grade mobile & web applications — from concept to deployment. Currently building **MicroFlow Pro**, an intelligent micro-finance platform for MFIs and savings groups across India.
+**Full-Stack Developer** from India — I build end-to-end products, from mobile apps to backends to deployment.
 
 ---
 
-### What I Do
+### 🔨 What I Work With
 
-- 🚀 Building **MicroFlow Pro** — a SaaS micro-finance platform (Flutter + Supabase + Firebase)
-- 📱 Cross-platform mobile development with **Flutter/Dart**
-- ⚡ Backend & real-time systems with **Supabase** (PostgreSQL, RLS, Edge Functions)
-- 🎨 Frontend web apps with **React**, **Vite**, **Tailwind CSS**
-- 🤖 AI-powered tools & automation workflows
-
----
-
-### Tech Stack
-
-| Category | Technologies |
-|----------|-------------|
-| **Mobile** | Flutter, Dart, Android (Kotlin) |
-| **Frontend** | React, Next.js, Vite, Tailwind CSS |
-| **Backend** | Supabase, PostgreSQL, Firebase |
-| **Tools** | Git, GitHub Actions, Vercel |
-| **Other** | Python, REST APIs, Real-time Systems |
+- **Mobile** — Flutter & Dart (cross-platform apps, offline-first, native plugins)
+- **Backend** — Supabase (PostgreSQL, RLS, Edge Functions, Auth), Firebase
+- **Web** — React, Vite, Next.js, Tailwind CSS
+- **Tools** — Python (automation, desktop GUIs), Node.js, Shell scripting
+- **Infra** — Vercel, GitHub Actions, Android native (Kotlin)
 
 ---
 
-### Featured Project
+### 🚀 Featured Projects
 
-**[MicroFlow Pro](https://microflow-pro.vercel.app)** — Enterprise micro-finance platform for managing collections, tracking members, monitoring branches, and real-time portfolio analytics. Built for field-first operations with offline sync and multi-role dashboards.
+| Project | What It Does | Stack |
+|---------|-------------|-------|
+| **[MicroFlow Pro](https://github.com/sansayan01/finance_app_zo)** | Full-stack micro-finance platform for MFIs — collections, member management, multi-branch dashboards, offline sync, real-time analytics | Flutter, Supabase, PostgreSQL |
+| **[DocUzip](https://github.com/sansayan01/DocUzip)** | Desktop GUI tool for executing Python code and managing DOCX & ZIP files | Python |
+| **[browssy](https://github.com/sansayan01/browssy)** | Web browser with split view and tab management | Python |
+| **[Hisaab Fatafat](https://github.com/sansayan01/Hisaab_Fatafat)** | Quick expense & account tracking app | JavaScript |
+| **[jerry-os](https://github.com/sansayan01/jerry-os)** | OS-style web interface experiment | JavaScript |
+| **[Pobitra Ghee](https://github.com/sansayan01/pobitra_simple)** | Premium artisanal ghee brand website | HTML |
 
 ---
 
-### Let's Connect
+### 📊 GitHub Stats
 
-- 🌐 [Portfolio](https://microflow-pro.vercel.app)
+![](https://github-readme-stats.vercel.app/api?username=sansayan01&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+
+---
+
+### 🌐 Connect
+
+- 🌍 [MicroFlow Pro](https://microflow-pro.vercel.app)
 - 💼 [LinkedIn](https://linkedin.com/in/sayanmondal)
-- 🐦 [Twitter/X](https://x.com/sansayan01)
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=sansayan01&show_icons=true&theme=radical&hide_border=true)
+*Currently building MicroFlow Pro — an intelligent platform for micro-finance institutions.*
